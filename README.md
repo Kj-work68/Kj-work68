@@ -55,8 +55,16 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Kj-work68&show_icons=true&hide_title=true&hide_border=true&theme=algolia&bg_color=00000000&text_color=00A1FF&icon_color=00A1FF&title_color=00A1FF" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kj-work68&layout=compact&hide_title=true&hide_border=true&theme=algolia&bg_color=00000000&text_color=00A1FF&title_color=00A1FF" height="165" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vite&theme=dark" height="45" />
+  <br/><br/>
+  <p>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+    <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  </p>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" height="45" />
   
 </div>
 
