@@ -39,10 +39,15 @@ Here are some ideas to get you started:
   
   <img src="https://skillicons.dev/icons?i=html,css,js,vite&theme=dark" height="45" />
   <br/><br/>
-  
-  <img src="https://skillicons.dev/icons?i=mysql,firebase,dbeaver,mssql&theme=dark" height="45" />
-  <br/><br/>
-  
+
+  <p>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+    <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  </p>
+  <br/>
+
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" height="45" />
 
 </div>
