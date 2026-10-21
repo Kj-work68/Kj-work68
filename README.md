@@ -68,5 +68,5 @@ Here are some ideas to get you started:
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00A1FF&height=100&section=footer&text=Ad%20Astra%20per%20Aspera&fontSize=20&fontColor=ffffff&fontAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00A1FF&height=100&section=footer&text=Ad%20Astra%20per%20Aspera.&fontSize=20&fontColor=ffffff&fontAlign=50" />
 </div>
