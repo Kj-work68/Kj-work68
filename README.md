@@ -16,16 +16,16 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00A1FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Kj-work68;Computer+%26+Information+Science;Creating+Intuitive+UX%2FUI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00A1FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Kachen Jantaket;Computer+%26+Information+Science;Creating+Intuitive+UX%2FUI" alt="Typing SVG" />
 
   <br />
 
-  <a href="https://www.kku.ac.th/">
+  <a href="https://cis.kku.ac.th/">
     <img src="https://img.shields.io/badge/Khon%20Kaen%20University-Computer%20%26%20Information%20Science-000000?style=for-the-badge&color=252525&labelColor=00A1FF&logoColor=white" alt="KKU" />
   </a>
 
-  <a href="mailto:onp.jantakote@gmail.com">
-    <img src="https://img.shields.io/badge/Email-onp.jantakote%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=00A1FF&color=252525" alt="Email" />
+  <a href="mailto:kachen.work68@gmail.com">
+    <img src="https://img.shields.io/badge/Email-kachen.work68%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=00A1FF&color=252525"/>
   </a>
 </div>
 
@@ -37,10 +37,10 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-  <img src="https://skillicons.dev/icons?i=html,css,js,nextjs,tailwind&theme=dark" height="45" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vite,&theme=dark" height="45" />
   <br/><br/>
   
-  <img src="https://skillicons.dev/icons?i=python,mysql,mongodb,firebase&theme=dark" height="45" />
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,dbeaver,mssql&theme=dark" height="45" />
   <br/><br/>
   
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" height="45" />
