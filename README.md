@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   </a>
 
   <a href="mailto:kachen.work68@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kachen.work68%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=00A1FF&color=252525"/>
+    <img src="https://img.shields.io/badge/Email-kachen.work68%40gmail.com-000000?style=for-the-badge&" alt="EMAIL"/>
   </a>
 </div>
 
