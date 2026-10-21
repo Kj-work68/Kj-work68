@@ -22,7 +22,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Education-Khon%20Kaen%20University%20--%20Computer%20%26%20Information%20Science-000000?style=for-the-badge&labelColor=00A1FF&color=1a1a1a&logo=googleacademic&logoColor=white" />
 </a>
 
+<a href="kachen.work68@gmail.com">
   <img src="https://img.shields.io/badge/Contact-kachen.work68%40gmail.com-000000?style=for-the-badge&labelColor=00A1FF&color=1a1a1a&logo=gmail&logoColor=white" />
+</a>
 </div>
 
 <br />
