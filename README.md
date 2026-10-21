@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00A1FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Kachen Jantaket;Computer+%26+Information+Science;Creating+Intuitive+UX%2FUI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00A1FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Kachen+Jantaket;Computer+%26+Information+Science;Creating+Intuitive+UX%2FUI" alt="Typing SVG" />
 
   <br />
 
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-  <img src="https://skillicons.dev/icons?i=html,css,js,vite,&theme=dark" height="45" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vite&theme=dark" height="45" />
   <br/><br/>
   
   <img src="https://skillicons.dev/icons?i=mysql,firebase,dbeaver,mssql&theme=dark" height="45" />
