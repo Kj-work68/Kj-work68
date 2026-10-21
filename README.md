@@ -60,8 +60,8 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Onpreeya-Jantakote&show_icons=true&hide_title=true&hide_border=true&theme=algolia&bg_color=00000000&text_color=00A1FF&icon_color=00A1FF&title_color=00A1FF" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onpreeya-Jantakote&layout=compact&hide_title=true&hide_border=true&theme=algolia&bg_color=00000000&text_color=00A1FF&title_color=00A1FF" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kj-work68&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=algolia&bg_color=00000000&text_color=00A1FF&icon_color=00A1FF&rank_icon_color=00A1FF" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kj-work68&layout=compact&hide_title=true&hide_border=true&theme=algolia&bg_color=00000000&text_color=00A1FF&title_color=00A1FF" height="165" />
   
 </div>
 
