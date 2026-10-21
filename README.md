@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-  <img src="https://skillicons.dev/icons?i=html,css,js,vite&theme=dark" height="45" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vite&theme=dark" height="45" />
   <br/><br/>
 
   <p>
@@ -68,5 +68,5 @@ Here are some ideas to get you started:
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00A1FF&height=100&section=footer&text=Trust%20the%20effort,%20it%20never%20betrays%20you&fontSize=20&fontColor=ffffff&fontAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00A1FF&height=100&section=footer&text=Ad%20Astra%20per%20Aspera&fontSize=20&fontColor=ffffff&fontAlign=50" />
 </div>
