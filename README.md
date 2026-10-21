@@ -18,15 +18,13 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00A1FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Kachen+Jantaket;Computer+%26+Information+Science;Creating+Intuitive+UX%2FUI" alt="Typing SVG" />
 
-  <br />
+  <br /><br />
 
-  <a href="https://cis.kku.ac.th/">
-    <img src="https://img.shields.io/badge/Khon%20Kaen%20University-Computer%20%26%20Information%20Science-000000?style=for-the-badge&color=252525&labelColor=00A1FF&logoColor=white" alt="KKU" />
-  </a>
+  <img src="https://img.shields.io/badge/Education-Khon%20Kaen%20University%20--%20Computer%20%26%20Information%20Science-000000?style=for-the-badge&labelColor=00A1FF&color=1a1a1a&logo=googleacademic&logoColor=white" />
+  
+  <br /><br />
 
-  <a href="mailto:kachen.work68@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kachen.work68%40gmail.com-000000?style=for-the-badge&" alt="EMAILหกก"/>
-  </a>
+  <img src="https://img.shields.io/badge/Contact-kachen.work68%40gmail.com-000000?style=for-the-badge&labelColor=00A1FF&color=1a1a1a&logo=gmail&logoColor=white" />
 </div>
 
 <br />
