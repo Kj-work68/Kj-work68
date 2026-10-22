@@ -33,9 +33,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Technical%20Skills-00A1FF?style=for-the-badge&labelColor=000000" height="30" />
 </h3>
 
+<!-- skill -->
 <div align="center">
   
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vite&theme=dark" height="45" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vite,react&theme=dark" height="45" />
   <br/><br/>
 
   <p>
